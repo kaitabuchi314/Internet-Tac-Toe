@@ -37,7 +37,7 @@ function drawBoard() {
       stroke(0);
       strokeWeight(8);
       noFill();
-      
+
       rect(x, y, cellSize, cellSize);
 
       const symbol = board[row][col];

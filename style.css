@@ -3,6 +3,7 @@ html, body {
   align-content: center;
   text-align: center;
   display: grid;
+  font-family: monospace;
 }
 canvas {
 }
