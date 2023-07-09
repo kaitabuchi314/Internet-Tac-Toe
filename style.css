@@ -1,8 +1,8 @@
 html, body {
-  margin: 0;
-  padding: 0;
   align-items: center;
+  align-content: center;
+  text-align: center;
+  display: grid;
 }
 canvas {
-  display: block;
 }
